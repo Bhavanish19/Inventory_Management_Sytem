@@ -1,36 +1,51 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Summary : Inventory Management System 🚀
 
-## Getting Started
+This project is a full-stack inventory management dashboard built with Next.js and Node.js, leveraging AWS for secure and scalable deployment. Features include dynamic UI with Tailwind CSS, efficient state management using Redux Toolkit, and robust backend with Prisma and Express. Deployed on AWS services like EC2, RDS, and S3
 
-First, run the development server:
+Dynamic and Responsive UI: Crafted with Next.js, Tailwind CSS, and Material UI Data Grid, the dashboard ensures seamless user experience across devices.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+State Management Excellence: Utilizes Redux Toolkit and Redux Toolkit Query for efficient global state management and data fetching.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Robust Backend Architecture: Powered by Node.js and Prisma, with Express for server and APIs, delivering a solid foundation for inventory, sales, and expense management.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Enterprise-Grade Deployment: Deployed on AWS with services like EC2, RDS, API Gateway, S3, and Amplify, demonstrating a scalable and secure infrastructure.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Advanced Features: Includes real-time data visualization, product management forms, and seamless light/dark mode switching.
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+Tech Stack
+Next JS
+Tailwind
+Redux Toolkit
+Redux Toolkit Query
+Material UI Data Grid
+Node.js
+Prisma
+AWS EC2
+AWS RDS
+AWS API Gateway
+AWS Amplify
+AWS S3
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Data Model 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+![IMG_0BFABDD03120-1](https://github.com/user-attachments/assets/516edced-014b-4618-94d3-1dc0964f8f64)
 
-## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+AWS Architectuire 
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+![Screenshot 2024-09-26 at 2 40 43 AM](https://github.com/user-attachments/assets/051a5413-3e67-4941-b927-61a6bf2d715a)
+
+
+Results 
+
+<img width="1470" alt="Screenshot 2024-09-26 at 1 54 37 AM" src="https://github.com/user-attachments/assets/79a04e8a-b7db-43aa-9fbd-2085e288cbf6">
+
+<img width="1470" alt="Screenshot 2024-09-26 at 1 54 41 AM" src="https://github.com/user-attachments/assets/0b80660d-044f-4029-abb7-2a197b734c96">
+
+<img width="1470" alt="Screenshot 2024-09-26 at 1 55 41 AM" src="https://github.com/user-attachments/assets/4758ac51-52c5-4b44-a94b-40c087167fba">
+
+<img width="1470" alt="Screenshot 2024-09-26 at 2 01 46 AM" src="https://github.com/user-attachments/assets/d0f5373e-a7eb-4e1e-b79e-398ebc642acf">
+
+
+
