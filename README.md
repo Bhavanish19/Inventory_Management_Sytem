@@ -1,4 +1,4 @@
-Summary : Inventory Management System 🚀
+Inventory Management System 🚀
 
 This project is a full-stack inventory management dashboard built with Next.js and Node.js, leveraging AWS for secure and scalable deployment. Features include dynamic UI with Tailwind CSS, efficient state management using Redux Toolkit, and robust backend with Prisma and Express. Deployed on AWS services like EC2, RDS, and S3
 
